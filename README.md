@@ -2,8 +2,17 @@
 
 [![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rocha-272216243/)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luke-rocha3&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-rocha3)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=luke-rocha3&show_icons=true&theme=dracula" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-rocha3&layout=compact&theme=dracula" />
+    </td>
+  </tr>
+</table>
+
 
 
 ### 🧠 Tecnologias que utilizo no dia a dia
