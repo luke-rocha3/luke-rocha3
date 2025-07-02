@@ -19,4 +19,5 @@
 </div>
 
 
+<img src="https://raw.githubusercontent.com/luke-rocha3/luke-rocha3/output/snake.svg" alt="Snake animation" />
 
